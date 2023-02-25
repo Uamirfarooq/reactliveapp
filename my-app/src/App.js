@@ -10,7 +10,7 @@ function App() {
     
     <>
     <Navbar name="My Todo List" searchbar={true}/>
-    <TextForm heading="online website" />
+    <TextForm heading="there are some changes" />
     </>
     
   );
